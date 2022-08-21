@@ -2,15 +2,15 @@ import React from "react";
 
 import Container from "../Container";
 import Header from "../Header";
-import GoodsList from "../GoodsList/GoodsList";
+import GroupsList from "../GroupsList/GroupsList";
 
-function App() {
+const App = () => {
   return (
     <Container>
       <Header />
-      <GoodsList />
+      <GroupsList />
     </Container>
   );
-}
+};
 
 export default App;

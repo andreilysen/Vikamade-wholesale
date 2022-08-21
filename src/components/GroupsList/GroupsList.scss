@@ -1,0 +1,33 @@
+.container {
+  margin: 0 auto;
+}
+.list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.card {
+  border-radius: 5px;
+
+  background-image: url(../../img/kletka-krasnaya-kletka-tekstura-4226-min.jpg);
+  margin: 10px;
+}
+
+.image {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+
+  width: 300px;
+  height: 200px;
+}
+
+.name {
+  text-align: center;
+}
+
+img {
+  border-radius: 15px;
+}

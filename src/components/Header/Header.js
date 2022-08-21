@@ -1,11 +1,12 @@
+import React from "react";
 // import Navigation from "../Navigation";
-import styles from "./Header.module.css";
+import "./Header.scss";
 import logo from "../../img/logo.png";
 
 const Header = () => {
   return (
     <header>
-      <div className={styles.heder}>
+      <div className="heder">
         <div>
           <a href="">
             <img src={logo} alt="logo" width="100" />

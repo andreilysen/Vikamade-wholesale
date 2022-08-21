@@ -1,1 +1,0 @@
-# Vikamade-wholesale
