@@ -1,4 +1,4 @@
-import { React, useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import * as APIfetch from "../../services/goods-API";
 
 import "./GroupsList.scss";

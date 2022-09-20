@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 // import Navigation from "../Navigation";
 import "./Header.scss";
 import logo from "../../img/logo.png";
