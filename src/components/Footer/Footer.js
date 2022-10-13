@@ -2,15 +2,21 @@
 import "./Footer.scss";
 
 const Footer = () => (
-  <footer>
+  <footer className="footer">
     <div>
       <p>м.Херсон</p>
       <p>+380501005829</p>
       <p>+380686699051</p>
     </div>
     <div>
-      <a>telegram</a>
-      <a>instagram</a>
+      <ul>
+        <li>
+          <a href="">telegram</a>
+        </li>
+        <li>
+          <a href="">instagram</a>
+        </li>
+      </ul>
     </div>
   </footer>
 );
